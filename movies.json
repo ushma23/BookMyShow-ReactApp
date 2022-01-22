@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+    "title": "Bell Bottom",
+    "actor": "Akshay Kumar"
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/M/MV5BMjk1NzcwMDUtNDU4ZC00MzlhLTkzZjAtM2MxMTRjZGE0ODdhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    "title": "Shershah",
+    "actor": "Kiara"
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc0OTU3M2MtMGFhMi00ZGVlLWI4YmItODA1ZTc0OGY0NmJlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "title": "Sultan",
+    "actor": "Salman Khan"
+  },
+  {
+    "id" : 4,
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQ1Yzc2NDYtN2RjNC00ZGIyLWJkMjItMDlkODVhNjg0OTczXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "title": "Thappad",
+    "actor": "Tapsee Pannu"
+  }
+]
